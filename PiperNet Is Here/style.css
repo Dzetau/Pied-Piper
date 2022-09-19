@@ -1,0 +1,159 @@
+.header{
+    position: fixed;
+    width: 100%;
+    height: 84px;
+    left: 0px;
+    top: 0px;
+    border:1px solid;
+    margin:auto;
+    background: #007765;}
+.logo{
+    position: sticky;
+    float: left;
+    padding-top: 20px;
+}
+.menu {
+    position: sticky;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    float: right;
+    top: 17% ;
+    color: #FFFFFF;
+    text-align: center;
+}
+a {
+    color: #ffffff;
+    text-align: center;
+    font-style: normal;
+    font-family: 'Roboto', Sans-serif;
+    text-decoration:none;}
+
+a:hover{
+        color: #ffffffa4;
+    }
+.main {margin-top:84px ;}
+.block1{
+    background-image: url('green.jpg');
+    background-size: cover;
+    background-position: center center;
+    padding-top: 160px;
+    padding-bottom: 160px;
+    }
+.container {
+        box-sizing: border-box;
+        max-width: 1219px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 55px;
+        padding-right: 55px;
+      }
+.text1 {
+        font-family: Roboto, sans-serif;
+        font-weight: 500;
+        font-size: 72px;
+        line-height: 84.38px;
+        text-align: center;
+        color: #fff;
+      }
+.block2{
+    background-color: #EEEEEE;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+.title {
+    
+    font-style: normal;
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #007765;
+    margin: 0;
+}
+p {
+    color: #000000;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37.5px;
+    text-align: left;
+    margin-bottom: 1.5em;
+}
+b {
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37.5px;
+}
+.block3{
+    background-image: url('blue.png');
+    background-size: cover;
+    background-position: center center;
+    padding-top: 160px;
+    padding-bottom: 160px;
+    }
+.text2 {
+        font-family: Roboto, sans-serif;
+        font-weight: 500;
+        font-style: italic;
+        font-size: 48px;
+        line-height: 56.25px;
+        text-align: center;
+        color: #fff;
+}
+.PPCLogo {
+    float: left;
+    padding-right: 40px;
+}
+.block4 {
+    background-color: #ffffff;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+figure {
+    display: inline-block;
+    padding: 60px;
+    margin: 30px;
+}
+.fc1 {
+    font-family: Roboto, sans-serif;
+    font-style: bold;
+    font-size: 24px;
+    line-height: 28.13px;
+    text-align: center;
+    vertical-align: top;
+    color: #007765;
+ }
+ .fc2 {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000; 
+ }
+ .text3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-left: 300px;
+    padding-right: 300px;
+ }
+ .end {
+    background-color:#333333;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 55px;
+    padding-bottom: 55px;
+ }
